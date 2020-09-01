@@ -29,7 +29,6 @@ function Feed() {
             <Post />
             <Post />
             
-            
         </div>
     )
 }
